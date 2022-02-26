@@ -1,0 +1,5 @@
+0 Chihuahua
+1 Pekinese
+2 Bluetick
+3 Bloodhound
+4 Malamute
